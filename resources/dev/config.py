@@ -5,8 +5,8 @@ iv = "youtube_encyptyo"
 salt = "youtube_AesEncryption"
 
 #AWS Access And Secret key
-aws_access_key = "AKIARQCDE4D542NWY4S6"
-aws_secret_key = "JZJwQ1d673TEOw/xiWwV/FsyY+C1ak96Hoc+gIXh"
+aws_access_key = "Your access key"
+aws_secret_key = "Your secret key"
 bucket_name = "youtube-de-project-sparsh"
 s3_customer_datamart_directory = "customer_data_mart"
 s3_sales_datamart_directory = "sales_data_mart"
